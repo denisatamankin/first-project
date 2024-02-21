@@ -1,0 +1,9 @@
+body,
+h1 {
+  margin: 0;
+}
+
+body {
+  min-width: 850px;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
